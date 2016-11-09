@@ -4,7 +4,7 @@
   "description": "image sprite",
   "main": "index.js",
   "dependencies": {
-    "images": "^2.0.2",
+    "images": "^3.0.0",
     "imagemin": "^1.0.2"
   },
   "devDependencies": {},
